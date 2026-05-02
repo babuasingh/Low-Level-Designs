@@ -16,6 +16,8 @@ A comprehensive collection of Low Level Design implementations demonstrating des
 
 5. **Chess Game**
 
+6. **Split wise** 
+
 **🚀 More Coming Soon**
 
 ---
